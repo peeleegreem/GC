@@ -1,2 +1,2 @@
-Hello world!
 Hello Git!
+Новая строка
