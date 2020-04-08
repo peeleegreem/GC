@@ -3,3 +3,4 @@ Hello Git!
 Другая строка
 
 Hello world!
+Hello everyone!
